@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Hamna Ali, a Software Engineering student from Pakistan</h2>
+<h2 align="center">Hi 👋! I am Hamna Ali, a Software Engineering student from Pakistan</h2>
 
 ###
 
@@ -7,13 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamna-ali&layout=compact&langs_count=4&theme=dracula&hide_border=false&custom_title=Top%20Languages%20Used" height="150" alt="Top Languages" />
 </div>
 
-###
+<br/>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="anime girl coding gif" />
-
-###
-
-<div align="left">
+<!-- ✅ Tech stack centered under charts -->
+<div align="left" style="margin-left: 80px;">
   <!-- First row -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
@@ -26,7 +23,7 @@
 
 <br/>
 
-<div align="left">
+<div align="left" style= "margin-left: 80px">
   <!-- Second row -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
@@ -35,10 +32,10 @@
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" height="30" alt="Scikit-learn" />
 </div>
 
+<br/>
 
-###
-
-<div align="left">
+<!-- ✅ Gmail & LinkedIn centered -->
+<div align="center">
   <a href="mailto:hamnaali435@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
@@ -46,6 +43,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
+
+<br/>
+
 
 ###
 
