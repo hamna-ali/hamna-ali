@@ -28,7 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="height:30px;" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height:30px;" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="height:30px;" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" style="height:25px;" alt="Scikit-learn" />
+ <img src="https://cdn.jsdelivr.net/gh/scikit-learn/scikit-learn@main/doc/logos/scikit-learn-logo-notext.png" style="height:30px;" alt="Scikit-learn" />
+
 </div>
 
 
