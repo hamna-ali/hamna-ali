@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Hamna Ali, a Software Engineering student from Pakistan</h2>
+<h2 align="center">Hi ! I am Hamna Ali, a Software Engineering student from Pakistan</h2>
 
 ###
 
