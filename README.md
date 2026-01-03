@@ -2,10 +2,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamna-ali&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamna-ali&layout=compact&theme=dracula" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamna-ali&show_icons=true&theme=dracula" width="420" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamna-ali&layout=compact&theme=dracula" width="420" />
+    </td>
+  </tr>
+</table>
 
 
 <br/> <!-- ✅ Space between stats and tech stack -->
