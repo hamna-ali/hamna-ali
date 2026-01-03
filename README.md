@@ -3,9 +3,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamna-ali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamna-ali&layout=compact&langs_count=4&theme=dracula&hide_border=false&custom_title=Top%20Languages%20Used" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamna-ali&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamna-ali&layout=compact&theme=dracula" />
 </div>
+
 
 <br/> <!-- ✅ Space between stats and tech stack -->
 
