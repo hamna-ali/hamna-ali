@@ -1,14 +1,23 @@
 <h2 align="center">Hi ! I am Hamna Ali, a Software Engineer from Lahore, Pakistan</h2>
 
 ###
-
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamna-ali&show_icons=true&theme=dracula" width="420" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamna-ali&layout=compact&theme=dracula" width="420" />
+    </td>
+  </tr>
+</table> -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hamna-ali&show_icons=true&theme=dracula" width="420" alt="Hamna's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamna-ali&layout=compact&theme=dracula" width="420" alt="Top Languages" />
     </td>
   </tr>
 </table>
